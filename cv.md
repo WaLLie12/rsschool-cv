@@ -46,4 +46,4 @@ function meanScore(...numbers) {
 
 # **English**
 
-* B1 (KET certificate, was living abroad for more than 1 year)
+* B1 (KET certificate, was living in Europe for more than 1 year)
