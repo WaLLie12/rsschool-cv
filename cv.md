@@ -42,7 +42,7 @@ function meanScore(...numbers) {
 # **Education**
 
 * National University of Life and Environmental Sciences (Economy)
-* Udemy (JS)
+* Udemy (JS), RSSCHOOL
 
 # **English**
 
