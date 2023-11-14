@@ -12,7 +12,7 @@
 
 # **Skills**
 
- *JSON
+ * JSON
  * Confluence
  * JS
  * AXIOS
